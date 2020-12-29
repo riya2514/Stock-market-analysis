@@ -15,9 +15,11 @@ Learning Algorithm for gainful foreseeing of stock expense. This will give more 
 results when appeared differently in relation to existing stock value expectation
 calculations.
 In this project I’ll carry out these tasks:
+
 ● To bring the ongoing information of the organization from yahoo finance and
 google finance, load it and refine the information to deliver a stock examination
 report.
+
 ● Examination to decide the supply of a specific organization, how the stock did as
 for term of time (week by week, month to month, yearly) lastly discovering which
 stock is more steady and which is more unstable.
